@@ -3,6 +3,7 @@
 
 
 # Ignore Data Files
+**/*.tfrec
 **/*.jpg
 **/*.jpeg
 **/*.pt
